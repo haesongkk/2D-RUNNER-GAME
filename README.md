@@ -13,7 +13,7 @@ UI는 모험가 길드의 의뢰서 같은 느낌을 참고했으며, HP, 아이
 
 ## 실행 화면
 
-[![](https://img.youtube.com/vi/pgLd06U_WaM/maxresdefault.jpg)](https://youtu.be/pgLd06U_WaM)
+[![](./screenshot.gif)](https://youtu.be/pgLd06U_WaM)
 
 > 위 이미지를 클릭하면 플레이 영상을 확인할 수 있습니다.
 
